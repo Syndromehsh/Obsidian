@@ -170,9 +170,9 @@ local Library = {
 
     IsLightTheme = false,
     Scheme = {
-        BackgroundColor = Color3.fromRGB(12, 12, 15),
-MainColor = Color3.fromRGB(18, 18, 22),
-AccentColor = Color3.fromRGB(98, 72, 175),
+        BackgroundColor = Color3.fromRGB(12, 120, 15),
+MainColor = Color3.fromRGB(18, 180, 22),
+AccentColor = Color3.fromRGB(98, 78, 175),
 OutlineColor = Color3.fromRGB(35, 35, 42),
 FontColor = Color3.fromRGB(235, 235, 240),
 Font = Font.fromEnum(Enum.Font.Gotham),
